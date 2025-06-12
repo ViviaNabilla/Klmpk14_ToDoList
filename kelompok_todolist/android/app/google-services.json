@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9182085141",
+    "project_id": "kelompok-todolist-f2cc5",
+    "storage_bucket": "kelompok-todolist-f2cc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9182085141:android:f2c7edc8f97501aab38e1c",
+        "android_client_info": {
+          "package_name": "com.example.kelompok_todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1C13iQDBmpHsi4zY1wDNrCywWGYcDLUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
